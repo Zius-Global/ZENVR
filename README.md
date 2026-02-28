@@ -8,6 +8,7 @@ Clone repository
 git clone -b ENVR9 https://github.com/shellworlds/ENVR.git
 cd ENVR/ENVR9
 
+
 Run system check
 cd system_check && ./system_check.sh
 
